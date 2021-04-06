@@ -1,2 +1,2 @@
 # FINAL_450
-Contains all the codes for 450 questions given by LoveBabbar
+Contains solutions of 450 DSA questions referred by LOVEBABBAR.
